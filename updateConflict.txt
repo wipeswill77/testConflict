@@ -1,4 +1,5 @@
 This file is created for the test of update conflict solusion.
 here are some information:
 name: zhang san
-age: 27
+home：山东省
+age: 22
