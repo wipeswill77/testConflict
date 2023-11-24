@@ -3,3 +3,5 @@ here are some information:
 name: zhang san
 home：山东省
 age: 22
+身份证号码：123456789
+tele:987654321
