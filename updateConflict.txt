@@ -1,8 +1,10 @@
 This file is created for the test of update conflict solusion.
 here are some information:
 name: zhang san
-name used：zhang zi
+name used：无
 home：山东省
 age: 22
 身份证号码：123456789
 tele:987654321
+helloworld
+aaa
